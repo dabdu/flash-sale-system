@@ -31,7 +31,7 @@ A robust, high-performance API built with Node.js, Express, MongoDB, Mongoose, a
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/flash-sale-system.git
+   git clone https://github.com/dabdu/flash-sale-system.git
    cd flash-sale-system
    ```
 

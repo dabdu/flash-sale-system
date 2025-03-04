@@ -4,6 +4,7 @@
 /node_modules
 #Misc
 # .env
+.env
 dist
 *.log
 /uploads
